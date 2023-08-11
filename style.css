@@ -1,0 +1,10 @@
+.banner-container, .main-page-header{
+    background-image: url(banner.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+.custom-nav{
+  backdrop-filter: blur(8px);  
+}
